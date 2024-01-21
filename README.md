@@ -8,7 +8,7 @@ This project aims to present information about different plans available. It inc
 
 ## Presentation
 
-[![Assista ao vídeo de apresentação](./Presentation/Presentation.mp4)](./Presentation/Presentation.mp4)
+[![Assista ao vídeo de apresentação]([./Presentation/Presentation.mp4](https://youtu.be/j_TMwcIdqTI))]([./Presentation/Presentation.mp4](https://youtu.be/j_TMwcIdqTI))
 
 ## Resources
 
