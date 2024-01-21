@@ -8,7 +8,7 @@ This project aims to present information about different plans available. It inc
 
 ## Presentation
 
-[Assista à Apresentação](Presentation/Presentation.mp4)
+https://github.com/KaiqueCV/plans-page/assets/142022406/a4870e36-5adf-4afb-8d88-0efe4248e6cb
 
 ## Resources
 
